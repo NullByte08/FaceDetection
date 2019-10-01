@@ -1,1 +1,1 @@
-Face Detection using Open Cv
+Face Detection using OpenCv Library
